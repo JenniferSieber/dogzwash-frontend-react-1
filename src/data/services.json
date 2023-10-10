@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "Wash and Trim", "desc": "Wash, condition and trim the sides with a organic, natural products.", "price": "45", "img": "/images/wash-trim-pexels-tima-miroshnichenko-6131569.jpg" },
+  {  "id": "2","name": "Paws Pedicure", "desc": "Deep clean and hydrate paws with a thorough trim (add-on option: nail paint 4 paws $15, any color).", "price": "25", "img": "/images/paws-pexels-goochie-poochie-grooming-3299897.jpg" },
+  {  "id": "3", "name": "The Extra", "desc": "A session of deep hair removal for our Extra Furry Friends.", "price": "25", "img": "/images/extra-pexels-w-o-l-f-λ-r-t-14006567.jpg" },
+  {  "id": "4","name": "Doggie Soak", "desc": "Bathe your pup in luxury with your choice of organic, scented cleansers.", "price": "20", "img": "/images/soak-pexels-cory-de-vega-732456.jpg" },
+  { "id": "5", "name": "Show Ready", "desc": "Total Package to prep your pooch for the dog shows.", "price": "150", "img": "/images/trim-pexels-artem-korsakov-12283472.jpg" },
+  {  "id": "6", "name": "Home Away from Home", "desc": "We care for your Furbaby by the hour or day*. Includes a 20 minute walk, organic treats, food and love in a safe, clean environment.", "price": "15 a hour - *$150 a day", "img": "/images/daycare-pexels-elina-volkova-18436635.jpg" }
+]

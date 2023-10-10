@@ -1,0 +1,6 @@
+[
+  {  "id": "e1", "name": "Jane", "bio": "Jane specializes in grooming the more trepid fur-babies. She volunteers at the local animal shelter and has three rescued, furbabies at home. We've never met a pet who didn't want to snuggle with Jane. ", "img": "/images/jane-pexels-josh-hild-18193595.jpg" },
+  {  "id": "e2","name": "Lance", "bio": "Lance loves animals and has over 10 years in the dog grooming business. He is also a dog trainer on the side. He loves Zoe, his blonde husky mix and she makes him a specialist on our 'Extra' Service for hair removal.", "img": "/images/lance-pexels-zen-chung-5749819.jpg" }, 
+  {  "id": "e3","name": "Heidi", "bio": "Heidi is our Puppy Daycare specialist and furbaby dietician. She wants our pets fed, happy, content and active. In her spare time, she's training her own Corgi for professional dog shows.", "img": "/images/heidi-pexels-elina-volkova-18436694.jpg" }, 
+  {  "id": "e4","name": "Ben", "bio": "Ben has been an amazing dog trainer for 15 years and a dog parent for his entire life. He is our puppy zen master and dog-yoda, in one.", "img": "/images/ben-pexels-pixabay-159557.jpg" }
+]
