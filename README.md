@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Front End App created in React 
+Front End App created in React PNG PREVIEWS of the APP and its Pages
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
